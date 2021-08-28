@@ -100,7 +100,7 @@ One important part of this course is to do an in-depth self study on a research-
       * 15% of the total marks of the course.
 
 3. Warning on plagiarism.
-   * Do not copy texts from other sources in your reports. You will have to rephrase them in your own words. Ideally, your writing should most consist of your own phrases and expressions, and use those rephrased and borrowed sentences only when they are absolutely needed. Copying texts from other sources is an instance of plagiarism, and it can destory a career of an academic. It is also a violation of our honour code, and will result in F. 
+   * A student should not copy texts from other sources in her or his reports. If the student wants to use such texts, he or she will have to rephrase them in her or his own words and state the sources of those texts explicitly. Ideally, a student's write-up should most consist of the student's own phrases and expressions, and use those borrowed rephrased sentences only when they are absolutely necessary. Copying texts from other sources is an instance of plagiarism, and it can destory a career of an academic. It is also a violation of our honour code, and will result in F. 
 
 ## 6. Study Materials
 
