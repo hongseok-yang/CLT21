@@ -14,7 +14,7 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 #### Evaluation
 
-* Homework (40%). Final exam (40%). Critical review (20%).
+* Homework (40%). Final exam (40%). Critical survey (20%).
 
 #### Teaching Staffs
 
@@ -67,15 +67,21 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 * 12/09(Thu) - Maximum entropy models (Ch12).
 * 12/14(Thu), 12/16(Thu) - __**NO ZOOM MEETING.**__ Final exam period.
 
-## 5. Critical Review
+## 5. Critical Survey
 
-1. Topic: Select a paper in COLT'18, COLT'19, COLT'20, and COLT'21, and write a critical survey on a research topic or problem of the paper. Write a general survey on the topic, not just a particular result of the paper. Looking at the related-work section of the paper will help you to find related work. COLT is a major international conferences on theories of machine learning.
+One important part of this course is to carry out an in-depth study on a research-level topic for oneself, and write a survey on the topic. The task accounts for the 20% of the total marks of this course, and consists of two reports, a proposal on what and how a student will study and a final survey that describes what the student learns from this study. In order to get full marks, a student has to show in his or her write-up that she or he has understood the chosen topic well, carried out in-depth study on the topic, and thought hard and originally about it. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (60%), and the demonstration of original thoughts and insights (20%). Here are the details of this assignment.
 
-2. Submit two reports.
-   1. Proposal (5%, maximum 1 page not including bibliography). 
+1. Topic: Select a paper in COLT'18, COLT'19, COLT'20, and COLT'21, and write a critical survey on a research topic or a problem of the paper. We encourage the students to write a in-depth survey on the topic, not just a particular result of the paper. Ideally, the survey explains the background, the importance of the topic, the existing results, and the result of the paper, and describes why or why not the result of the paper is important in the development of the topic. Looking at the related-work section of the paper will help you to find out other related papers to look at. COLT is chosen because it is a major international conferences on theories of machine learning.
+
+2. Two reports to submit.
+   1. Proposal - brief description of which paper a student picks and why, and also how the student plans to complete this survey-writing project, such as what other papers to look at and what questions to think about while writing the survey.
       * Deadline: __**23:59 of the 29th of October in 2021 (Friday). Submit in KLMS.**__
-   2. Final report (15%, maximum 3 pages not including bibiliography).
+      * Maximum 1 page not including bibliography.
+      * The proposal accounts for the 5% of the total marks of the course.
+   2. Final survey.
       * Deadline: __**23:59 of the 3rd of December in 2021 (Friday). Submit in KLMS.**__
+      * Maximum 4 pages not including bibliography.
+      * The proposal accounts for the 15% of the total marks of the course.
 
 ## 6. Study Materials
 
