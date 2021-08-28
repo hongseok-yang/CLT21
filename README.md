@@ -12,7 +12,7 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 #### [28 August] Policy for handling late submissions.
 
-We will adopt the following scheme for handling late submissions for homework assignments and critical surveys. The scheme assumes that the total marks are 100.
+We will adopt the following scheme for handling late submissions for homework assignments and two reports for the critical-survey assignment. The scheme assumes that the total marks are 100.
 
 1. <= One day late (by the midnight of the next day): -10
 2. <= Two days late: -20
