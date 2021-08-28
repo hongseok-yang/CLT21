@@ -83,14 +83,14 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 
 ## 5. Critical Survey
 
-One important part of this course is to carry out an in-depth study on a research-level topic for oneself, and write a survey on the topic. The task accounts for the 20% of the total marks of this course, and consists of two reports, a proposal on what and how a student will study and a final survey that describes what the student learns from this study. In order to get full marks, a student has to show in his or her write-up that she or he has understood the chosen topic well, carried out in-depth study on the topic, and thought hard and originally about it. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (60%), and the demonstration of original thoughts and insights (20%). Here are the details of this assignment.
+One important part of this course is to do an in-depth self study on a research-level topic on a theoretical aspect of machine learning, and write a survey article on the topic. The task accounts for the 20% of the total marks of this course. It consists of two reports, a proposal on what and how a student will study and a final survey that describes what the student learns from the study. In order to get full marks, a student has to show in his or her write-up that she or he has understood the chosen topic well, carried out in-depth study on the topic, and thought hard and originally about it. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (60%), and the demonstration of original thoughts and insights (20%). Here are the details of this assignment.
 
-1. Task.
-   * Select a paper in COLT'18, COLT'19, COLT'20, and COLT'21, study a research topic or a problem of the paper, and write a survey on the topic. We encourage the students to go beyond a simple summary of the results of the paper, and write an in-depth and comprehensive survey on the topic itself. Ideally, the survey explains the background and importance of the topic, the existing results about it, and the contribution of the paper, and describes the student's view on why or why not the results of the paper moved forward the development of the topic. Looking at the related-work section of the paper will help you to navigate the existing literature. COLT is one of the best international conferences on theories of machine learning.
+1. Task description.
+   * Select a paper in COLT'18, COLT'19, COLT'20, and COLT'21, study a research topic or a problem of the paper, and write a survey on the topic. We encourage the students to go beyond a simple summary of the results of the paper, and write an in-depth and comprehensive survey on the topic itself. Ideally, the survey explains the background and importance of the topic, the existing results about it, and the contribution of the paper, and describes the student's view on why or why not the results of the paper are significant. Looking at the related-work section of the paper will help a student to navigate the existing literature. COLT is one of the best international conferences on the theoretical aspect of machine learning.
 
 2. Two reports to submit.
    1. Proposal.
-      * Brief description of which paper a student picks and why, and also how the student plans to complete this survey-writing project, such as what other papers to look at and what questions to think about while writing the survey.
+      * Description about which paper a student picks and why, and also about how the student plans to complete this survey-writing project, such as what other papers to look at and what questions to think about while writing the survey.
       * Deadline: __**23:59 of the 29th of October in 2021 (Friday). Submit in KLMS.**__
       * Maximum 1 page not including bibliography.
       * 5% of the total marks of the course.
@@ -100,7 +100,7 @@ One important part of this course is to carry out an in-depth study on a researc
       * 15% of the total marks of the course.
 
 3. Warning on plagiarism.
-   * Do not copy texts from other sources in your reports. You will have to rephrase them in your own words. Ideally, your writing should be mostly based on your own phrases and expressions, and use only a minimal amount of such rephrased and borrowed sentences. Copying texts from other sources is an instance of plagiarism, and can destory a career of an academic. It is also a violation of our honour code, which will result in F. 
+   * Do not copy texts from other sources in your reports. You will have to rephrase them in your own words. Ideally, your writing should most consist of your own phrases and expressions, and use those rephrased and borrowed sentences only when they are absolutely needed. Copying texts from other sources is an instance of plagiarism, and it can destory a career of an academic. It is also a violation of our honour code, and will result in F. 
 
 ## 6. Study Materials
 
