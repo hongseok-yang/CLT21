@@ -34,35 +34,37 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 4. Tentative Plan
 
-* 08/31(Tue) - [Lecture] Introduction. The PAC learning framework (Ch2).
-* 09/02(Thu) - [Lecture] The PAC learning framework (Ch2).
-* 09/07(Tue) - [Lecture] The PAC learning framework (Ch2).
-* 09/09(Thu) - [Q&A] The PAC learning framework (Ch2).
-* 09/14(Tue) - [Lecture] Rademacher complexity and VC dimension (Ch3).
-* 09/16(Thu) - [Lecture] Rademacher complexity and VC dimension (Ch3).
+For each chapter we cover in the course, except the last, we plan to have one Q&A session where we discuss questions from students and solve exercise problems in the textbook together. However, if we are far behind the schedule, we may skip some of these Q&A sessions.
+
+* 08/31(Tue) - Introduction. The PAC learning framework (Ch2).
+* 09/02(Thu) - The PAC learning framework (Ch2).
+* 09/07(Tue) - The PAC learning framework (Ch2).
+* 09/09(Thu) - __**[Q&A]**__ The PAC learning framework (Ch2).
+* 09/14(Tue) - Rademacher complexity and VC dimension (Ch3).
+* 09/16(Thu) - Rademacher complexity and VC dimension (Ch3).
 * 09/21(Tue) - __**NO ZOOM MEETING.**__ National holiday (Chuseok).
-* 09/23(Thu) - [Lecture] Rademacher complexity and VC dimension (Ch3).
-* 09/28(Tue) - [Q&A] Rademacher complexity and VC dimension (Ch3).
-* 09/30(Thu) - [Lecture] Model selection (Ch4).
-* 10/05(Tue) - [Lecture] Model selection (Ch4).
-* 10/07(Thu) - [Q&A] Model selection (Ch4).
-* 10/12(Tue) - [Lecture] Support vector machine (Ch5).
-* 10/14(Thu) - [Lecture] Support vector machine (Ch5).
+* 09/23(Thu) - Rademacher complexity and VC dimension (Ch3).
+* 09/28(Tue) - __**[Q&A]**__ Rademacher complexity and VC dimension (Ch3).
+* 09/30(Thu) - Model selection (Ch4).
+* 10/05(Tue) - Model selection (Ch4).
+* 10/07(Thu) - __**[Q&A]**__ Model selection (Ch4).
+* 10/12(Tue) - Support vector machine (Ch5).
+* 10/14(Thu) - Support vector machine (Ch5).
 * 10/19(Tue), 10/21(Thu) - __**NO ZOOM MEETING.**__ Midterm exam period.
-* 10/26(Tue) - [Lecture] Support vector machine (Ch5).
-* 10/28(Thu) - [Q&A] Support vector machine (Ch5).
-* 11/02(Tue) - [Lecture] Kernel methods (Ch6).
-* 11/04(Thu) - [Lecture] Kernel methods (Ch6).
-* 11/09(Tue) - [Lecture] Kernel methods (Ch6).
-* 11/11(Thu) - [Q&A] Kernel methods (Ch6).
-* 11/16(Tue) - [Lecture] Regression (Ch11).
-* 11/18(Thu) - [Lecture] Regression (Ch11).
-* 11/23(Tue) - [Lecture] Regression (Ch11).
-* 11/25(Thu) - [Q&A] Regression (Ch11).
-* 11/30(Tue) - [Lecture] Maximum entropy models (Ch12).
+* 10/26(Tue) - Support vector machine (Ch5).
+* 10/28(Thu) - __**[Q&A]**__ Support vector machine (Ch5).
+* 11/02(Tue) - Kernel methods (Ch6).
+* 11/04(Thu) - Kernel methods (Ch6).
+* 11/09(Tue) - Kernel methods (Ch6).
+* 11/11(Thu) - __**[Q&A]**__ Kernel methods (Ch6).
+* 11/16(Tue) - Regression (Ch11).
+* 11/18(Thu) - Regression (Ch11).
+* 11/23(Tue) - Regression (Ch11).
+* 11/25(Thu) - __**[Q&A]**__ Regression (Ch11).
+* 11/30(Tue) - Maximum entropy models (Ch12).
 * 12/02(Thu) - __**NO ZOOM MEETING.**__ Undergraduate interview.
-* 12/07(Thu) - [Lecture] Maximum entropy models (Ch12).
-* 12/09(Thu) - [Lecture] Maximum entropy models (Ch12).
+* 12/07(Thu) - Maximum entropy models (Ch12).
+* 12/09(Thu) - Maximum entropy models (Ch12).
 * 12/14(Thu), 12/16(Thu) - __**NO ZOOM MEETING.**__ Final exam period.
 
 ## 5. Critical Review
