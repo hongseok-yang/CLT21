@@ -69,6 +69,14 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 
 ## 5. Critical Review
 
+1. Topic: Select a paper in COLT'18, COLT'19, COLT'20, and COLT'21, and write a critical survey on a research topic or problem of the paper. Write a general survey on the topic, not just a particular result of the paper. Looking at the related-work section of the paper will help you to find related work. COLT is a major international conferences on theories of machine learning.
+
+2. Submit two reports.
+   1. Proposal (5%, maximum 1 page not including bibliography). 
+      * Deadline: __**23:59 of the 29th of October in 2021 (Friday). Submit in KLMS.**__
+   2. Final report (15%, maximum 3 pages not including bibiliography).
+      * Deadline: __**23:59 of the 3rd of December in 2021 (Friday). Submit in KLMS.**__
+
 ## 6. Study Materials
 
 We will closely follow the textbook "Foundations of Machine Learning" (second edition) by Mohri, Rostamizadeh, and Talwalkar. The webpage of the textbook contains many useful materials, including the HTML version of the book and the list of typos.
