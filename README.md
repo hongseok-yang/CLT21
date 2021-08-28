@@ -34,35 +34,35 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 4. Tentative Plan
 
-* 08/31(Tue) -
-* 09/02(Thu) -
-* 09/07(Tue) -
-* 09/09(Thu) -
-* 09/14(Tue) -
-* 09/16(Thu) -
+* 08/31(Tue) - [Lecture] Introduction. The PAC learning framework (Ch2).
+* 09/02(Thu) - [Lecture] The PAC learning framework (Ch2).
+* 09/07(Tue) - [Lecture] The PAC learning framework (Ch2).
+* 09/09(Thu) - [Q&A] The PAC learning framework (Ch2).
+* 09/14(Tue) - [Lecture] Rademacher complexity and VC dimension (Ch3).
+* 09/16(Thu) - [Lecture] Rademacher complexity and VC dimension (Ch3).
 * 09/21(Tue) - __**NO ZOOM MEETING.**__ National holiday (Chuseok).
-* 09/23(Thu) -
-* 09/28(Tue) -
-* 09/30(Thu) -
-* 10/05(Tue) -
-* 10/07(Thu) -
-* 10/12(Tue) -
-* 10/14(Thu) -
+* 09/23(Thu) - [Lecture] Rademacher complexity and VC dimension (Ch3).
+* 09/28(Tue) - [Q&A] Rademacher complexity and VC dimension (Ch3).
+* 09/30(Thu) - [Lecture] Model selection (Ch4).
+* 10/05(Tue) - [Lecture] Model selection (Ch4).
+* 10/07(Thu) - [Q&A] Model selection (Ch4).
+* 10/12(Tue) - [Lecture] Support vector machine (Ch5).
+* 10/14(Thu) - [Lecture] Support vector machine (Ch5).
 * 10/19(Tue), 10/21(Thu) - __**NO ZOOM MEETING.**__ Midterm exam period.
-* 10/26(Tue) -
-* 10/28(Thu) - 
-* 11/02(Tue) -
-* 11/04(Thu) - 
-* 11/09(Tue) -
-* 11/11(Thu) - 
-* 11/16(Tue) -
-* 11/18(Thu) - 
-* 11/23(Tue) -
-* 11/25(Thu) - 
-* 11/30(Tue) -
-* 12/01(Thu) - __**NO ZOOM MEETING.**__ Undergraduate interview.
-* 12/07(Thu) - 
-* 12/09(Thu) - 
+* 10/26(Tue) - [Lecture] Support vector machine (Ch5).
+* 10/28(Thu) - [Q&A] Support vector machine (Ch5).
+* 11/02(Tue) - [Lecture] Kernel methods (Ch6).
+* 11/04(Thu) - [Lecture] Kernel methods (Ch6).
+* 11/09(Tue) - [Lecture] Kernel methods (Ch6).
+* 11/11(Thu) - [Q&A] Kernel methods (Ch6).
+* 11/16(Tue) - [Lecture] Regression (Ch11).
+* 11/18(Thu) - [Lecture] Regression (Ch11).
+* 11/23(Tue) - [Lecture] Regression (Ch11).
+* 11/25(Thu) - [Q&A] Regression (Ch11).
+* 11/30(Tue) - [Lecture] Maximum entropy models (Ch12).
+* 12/02(Thu) - __**NO ZOOM MEETING.**__ Undergraduate interview.
+* 12/07(Thu) - [Lecture] Maximum entropy models (Ch12).
+* 12/09(Thu) - [Lecture] Maximum entropy models (Ch12).
 * 12/14(Thu), 12/16(Thu) - __**NO ZOOM MEETING.**__ Final exam period.
 
 ## 5. Critical Review
@@ -71,5 +71,5 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 We will closely follow the textbook "Foundations of Machine Learning" (second edition) by Mohri, Rostamizadeh, and Talwalkar. The webpage of the textbook contains many useful materials, including the HTML version of the book and the list of typos.
 
-* Main Textbook: [Foundations of Machine Learning, 2nd edition](https://cs.nyu.edu/~mohri/mlbook/).
+* Main Textbook: [Foundations of Machine Learning (2nd edition)](https://cs.nyu.edu/~mohri/mlbook/).
 
