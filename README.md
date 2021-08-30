@@ -50,7 +50,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 For each chapter we cover in the course, except the last, we plan to have one Q&A session where we discuss questions from students and solve exercise problems in the textbook together. However, if we are far behind the schedule, we may skip some of these Q&A sessions.
 
-* 08/31(Tue) - Introduction. The PAC learning framework (Ch2).
+* 08/31(Tue) - Introduction ([note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture1/CLT21-L1-Introduction.pdf)). The PAC learning framework (Ch2).
 * 09/02(Thu) - The PAC learning framework (Ch2).
 * 09/07(Tue) - The PAC learning framework (Ch2).
 * 09/09(Thu) - __**[Q&A]**__ The PAC learning framework (Ch2).
