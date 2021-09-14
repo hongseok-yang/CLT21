@@ -33,7 +33,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 #### Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm Monday in ZOOM. You can find more information about it in KLMS.)
-* TA: Sangho Lim (email: lim.sang@kaist.ac.kr, office hour: to be announced. You can find more information about it in KLMS.)
+* TA: Sangho Lim (email: lim.sang@kaist.ac.kr, office hour: 6:00pm - 7:00pm Tuesday in ZOOM. You can find more information about it in KLMS.)
 
 #### Place and Time
 
