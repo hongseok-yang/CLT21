@@ -10,6 +10,10 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 1. Important Announcements
 
+#### [16 September] No lecture on 23 September.
+
+Following the university's policy related to COVID-19, we will cancel our online class on 23 September.
+
 #### [28 August] Policy for handling late submissions.
 
 We will adopt the following scheme for handling late submissions for homework assignments and two reports for the critical-survey assignment. The scheme assumes that the total marks are 100.
@@ -55,11 +59,11 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 * 09/07(Tue) - The PAC learning framework (Ch2). ([video](https://youtu.be/Wj13XVwpVbA), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L3/L3-board1.pdf), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L3/L3-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L3/L3-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L3/L3-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L3/L3-board5.png), [board6](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L3/L3-board6.png), [board7](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L3/L3-board7.png)).
 * 09/09(Thu) - __**[Q&A]**__ The PAC learning framework (Ch2). ([video](https://youtu.be/sDDFNAC-Vso), [note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture2/CLT21-L2-PAC-exercises.pdf), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L4/L4-board1.pdf), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L4/L4-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L4/L4-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L4/L4-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L4/L4-board5.png), [board6](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L4/L4-board6.png)).
 * 09/14(Tue) - Rademacher complexity and VC dimension (Ch3). ([video](https://youtu.be/3t5HS5ppG6A), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L5/L5-board1.pdf), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L5/L5-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L5/L5-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L5/L5-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L5/L5-board5.png)).
-* 09/16(Thu) - Rademacher complexity and VC dimension (Ch3).
+* 09/16(Thu) - Rademacher complexity and VC dimension (Ch3). ([video](https://youtu.be/TtNP8pmDiRM), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L6/L6-board1.pdf), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L6/L6-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L6/L6-board3.png)).
 * 09/21(Tue) - __**NO ZOOM MEETING.**__ National holiday (Chuseok).
-* 09/23(Thu) - Rademacher complexity and VC dimension (Ch3).
-* 09/28(Tue) - __**[Q&A]**__ Rademacher complexity and VC dimension (Ch3).
-* 09/30(Thu) - Model selection (Ch4).
+* 09/23(Thu) - __**NO ZOOM MEETING.**__ Due to the university's action on COVID-19.
+* 09/28(Tue) - Rademacher complexity and VC dimension (Ch3).
+* 09/30(Thu) - __**[Q&A]**__ Rademacher complexity and VC dimension (Ch3).
 * 10/05(Tue) - Model selection (Ch4).
 * 10/07(Thu) - __**[Q&A]**__ Model selection (Ch4).
 * 10/12(Tue) - Support vector machine (Ch5).
