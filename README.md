@@ -62,7 +62,7 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 * 09/16(Thu) - Rademacher complexity and VC dimension (Ch3). ([video](https://youtu.be/TtNP8pmDiRM), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L6/L6-board1.pdf), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L6/L6-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L6/L6-board3.png)).
 * 09/21(Tue) - __**NO ZOOM MEETING.**__ National holiday (Chuseok).
 * 09/23(Thu) - __**NO ZOOM MEETING.**__ Due to the university's action on COVID-19.
-* 09/28(Tue) - Rademacher complexity and VC dimension (Ch3).
+* 09/28(Tue) - Rademacher complexity and VC dimension (Ch3). ([video](https://youtu.be/o5cSywRACUI)).
 * 09/30(Thu) - __**[Q&A]**__ Rademacher complexity and VC dimension (Ch3).
 * 10/05(Tue) - Model selection (Ch4).
 * 10/07(Thu) - __**[Q&A]**__ Model selection (Ch4).
