@@ -10,6 +10,12 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 1. Important Announcements
 
+#### [2 October] [Homework1](https://github.com/hongseok-yang/CLT21/blob/master/Homework/homework1.pdf) is out.
+
+The homework assignment 1 is out. Submit your solutions in KLMS by 6:00pm on 15 October 2021 (Friday).
+
+We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
+
 #### [16 September] No lecture on 23 September.
 
 Following the university's policy related to COVID-19, we will cancel our online class on 23 September.
@@ -49,6 +55,10 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 * We will use KLMS.
 
 ## 3. Homework
+
+Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
+
+* [Homework1](https://github.com/hongseok-yang/CLT21/blob/master/Homework/homework1.pdf) - Deadline: 6:00pm on 15 October 2021 (Friday).
 
 ## 4. Tentative Plan
 
