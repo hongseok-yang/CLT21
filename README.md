@@ -79,10 +79,10 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 * 10/12(Tue) - Model selection (Ch4). ([video](https://youtu.be/_xRvICGvg5s), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L11/L11-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L11/L11-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L11/L11-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L11/L11-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L11/L11-board5.png)).
 * 10/14(Thu) - __**[Q&A]**__ Model selection (Ch4). ([video](https://youtu.be/7huA2BF-tgs), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L12/L12-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L12/L12-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L12/L12-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L12/L12-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L12/L12-board5.png)).
 * 10/19(Tue), 10/21(Thu) - __**NO ZOOM MEETING.**__ Midterm exam period.
-* 10/26(Tue) - Support vector machine (Ch5).
-* 10/28(Thu) - __**[Q&A]**__ Support vector machine (Ch5).
-* 11/02(Tue) - Kernel methods (Ch6).
-* 11/04(Thu) - Kernel methods (Ch6).
+* 10/26(Tue) - Support vector machine (Ch5). ([video](https://youtu.be/kWiexRg4kF4), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board5.png)).
+* 10/28(Thu) - Support vector machine (Ch5).
+* 11/02(Tue) - Support vector machine (Ch5).
+* 11/04(Thu) - __**[Q&A]**__ Support vector machine (Ch5).
 * 11/09(Tue) - Kernel methods (Ch6).
 * 11/11(Thu) - __**[Q&A]**__ Kernel methods (Ch6).
 * 11/16(Tue) - Regression (Ch11).
