@@ -81,7 +81,7 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 * 10/19(Tue), 10/21(Thu) - __**NO ZOOM MEETING.**__ Midterm exam period.
 * 10/26(Tue) - Support vector machine (Ch5). ([video](https://youtu.be/kWiexRg4kF4), [note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture5/CLT21-L5-SVM.pdf), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board5.png)).
 * 10/28(Thu) - Support vector machine (Ch5). ([video](https://youtu.be/6CuzWJ9eonY), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L14/L14-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L14/L14-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L14/L14-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L14/L14-board4.png))
-* 11/02(Tue) - Support vector machine (Ch5).
+* 11/02(Tue) - Support vector machine (Ch5). ([video](https://youtu.be/yR4fAj5oV2Y)).
 * 11/04(Thu) - __**[Q&A]**__ Support vector machine (Ch5).
 * 11/09(Tue) - Kernel methods (Ch6).
 * 11/11(Thu) - __**[Q&A]**__ Kernel methods (Ch6).
