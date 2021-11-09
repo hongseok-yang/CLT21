@@ -88,17 +88,17 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 * 10/26(Tue) - Support vector machine (Ch5). ([video](https://youtu.be/kWiexRg4kF4), [note](https://github.com/hongseok-yang/CLT21/blob/master/Lectures/Lecture5/CLT21-L5-SVM.pdf), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L13/L13-board5.png)).
 * 10/28(Thu) - Support vector machine (Ch5). ([video](https://youtu.be/6CuzWJ9eonY), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L14/L14-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L14/L14-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L14/L14-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L14/L14-board4.png))
 * 11/02(Tue) - Support vector machine (Ch5). ([video](https://youtu.be/yR4fAj5oV2Y)).
-* 11/04(Thu) - __**[Q&A]**__ Support vector machine (Ch5). ([video](https://youtu.be/mpvRkcz5nio), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L15/L15-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L15/L15-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L15/L15-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L15/L15-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L15/L15-board5.png))
-* 11/09(Tue) - Kernel methods (Ch6).
-* 11/11(Thu) - __**[Q&A]**__ Kernel methods (Ch6).
-* 11/16(Tue) - Regression (Ch11).
-* 11/18(Thu) - Regression (Ch11).
+* 11/04(Thu) - __**[Q&A]**__ Support vector machine (Ch5). ([video](https://youtu.be/mpvRkcz5nio), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L16/L16-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L16/L16-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L16/L16-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L16/L16-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L16/L16-board5.png))
+* 11/09(Tue) - Kernel methods (Ch6). ([video](https://youtu.be/kTZNtfNLuI0), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L17/L17-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L17/L17-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L17/L17-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L17/L17-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L17/L17-board5.png))
+* 11/11(Thu) - Kernel methods (Ch6).
+* 11/16(Tue) - Kernel methods (Ch6).
+* 11/18(Thu) - __**[Q&A]**__ Kernel methods (Ch6).
 * 11/23(Tue) - Regression (Ch11).
-* 11/25(Thu) - __**[Q&A]**__ Regression (Ch11).
-* 11/30(Tue) - Maximum entropy models (Ch12).
+* 11/25(Thu) - Regression (Ch11).
+* 11/30(Tue) - Regression (Ch11).
 * 12/02(Thu) - __**NO ZOOM MEETING.**__ Undergraduate interview.
-* 12/07(Thu) - Maximum entropy models (Ch12).
-* 12/09(Thu) - Maximum entropy models (Ch12).
+* 12/07(Thu) - __**[Q&A]**__ Regression (Ch11).
+* 12/09(Thu) - Special topic.
 * 12/14(Thu), 12/16(Thu) - __**NO ZOOM MEETING.**__ Final exam period.
 
 ## 5. Critical Survey
