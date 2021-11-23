@@ -10,6 +10,14 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 ## 1. Important Announcements
 
+#### [23 November] Final exam.
+
+The final exam will be a take-home exam. Here is information about it.
+
+1. The exam paper will be available at 9:00am on the 14th of December (Tuesday), and students will be given 24 hours to prepare their answers. That is, the deadline is 9:00am on the 15th of December (Wednesday). No late submissions will be accepted.
+2. Questions will be based on Chapters 6 and 11.
+3. As in other homework submissions, we will adopt a very strict policy for handling dishonest behaviours. If a student is found to violate the honour code, he or she will get F. Also, because of the new rule in the department, we will have to report the case to the department.
+
 #### [8 November] [Homework2](https://github.com/hongseok-yang/CLT21/blob/master/Homework/homework2.pdf) is out.
 The homework assignment 2 is out. Submit your solutions in KLMS by 6:00pm on 24 November 2021 (Wednesday).
 
