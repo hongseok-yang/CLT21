@@ -14,7 +14,7 @@ This course is not about state-of-the-art machine learning algorithms and popula
 
 The final exam will be a take-home exam. Here is information about it.
 
-1. The exam paper will be available at 9:00am on the 14th of December (Tuesday), and students will be given 24 hours to prepare their answers. That is, the deadline is 9:00am on the 15th of December (Wednesday). No late submissions will be accepted.
+1. The exam paper will be available from KLMS at 9:00am on the 14th of December (Tuesday), and students will be given 24 hours to prepare their answers and submit them in KLMS. That is, the deadline is 9:00am on the 15th of December (Wednesday). No late submissions will be accepted.
 2. Questions will be based on Chapters 6 and 11.
 3. As in other homework submissions, we will adopt a very strict policy for handling dishonest behaviours. If a student is found to violate the honour code, he or she will get F. Also, because of the new rule in the department, we will have to report the case to the department.
 
