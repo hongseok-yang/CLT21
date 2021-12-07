@@ -105,8 +105,8 @@ For each chapter we cover in the course, except the last, we plan to have one Q&
 * 11/25(Thu) - Regression (Ch11). ([video](https://youtu.be/fYkHsshi3Eg))
 * 11/30(Tue) - Regression (Ch11). ([video](https://youtu.be/KamqJF17WE0), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L23/L23-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L23/L23-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L23/L23-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L23/L23-board4.png))
 * 12/02(Thu) - __**NO ZOOM MEETING.**__ Undergraduate interview.
-* 12/07(Thu) - __**[Q&A]**__ Regression (Ch11).
-* 12/09(Thu) - Special topic.
+* 12/07(Thu) - __**[Q&A]**__ Regression (Ch11). ([video](https://youtu.be/ViXLUqV2xIk), [board1](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L24/L24-board1.png), [board2](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L24/L24-board2.png), [board3](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L24/L24-board3.png), [board4](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L24/L24-board4.png), [board5](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L24/L24-board5.png), [board6](https://github.com/hongseok-yang/CLT21/blob/master/Whiteboards/L24/L24-board6.png))
+* 12/09(Thu) - __**[Q&A]**__
 * 12/14(Thu), 12/16(Thu) - __**NO ZOOM MEETING.**__ Final exam period.
 
 ## 5. Critical Survey
